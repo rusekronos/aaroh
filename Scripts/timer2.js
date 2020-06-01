@@ -59,7 +59,7 @@ function gen_table(json) {
         tstr += "<tr><td>";
         tstr += k;
         tstr += "</td><td>";
-        tstr += v.startTime;
+        tstr += v.info;
         tstr += "</td></tr>";
         times.push({periodName: k, timeFrom: timeStringToMS(v.startTime)});
     }
