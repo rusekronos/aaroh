@@ -455,51 +455,61 @@
 "wednesdayB":{
 	"Period 1":{
 		"startTime": "08:50",
+		"info": "with Tim Flood at Room C0.2",
 		"periodLength": "45 minutes"
 	},
 
 	"Period 2":{
 		"startTime": "09:35",
+		"info": "with Tim Flood at Room C0.2",
 		"periodLength": "45 minutes"
 	},
 
 	"Recess":{
 		"startTime": "10:20",
+		"info": "with Tim Flood at Room C0.2",
 		"periodLength": "18 minutes"
 	},
 
 	"Period 3":{
 		"startTime": "10:38",
+		"info": "with Tim Flood at Room C0.2",
 		"periodLength": "45 minutes"
 	},
 
 	"Period 4":{
 		"startTime": "11:23",
+		"info": "with Tim Flood at Room C0.2",
 		"periodLength": "45 minutes"
 	},
 
 	"Lunch":{
 		"startTime": "12:08",
+		"info": "with Tim Flood at Room C0.2",
 		"periodLength": "40 minutes"
 	},
 
 	"Period 5":{
 		"startTime": "12:48",
+		"info": "with Tim Flood at Room C0.2",
 		"periodLength": "46 minutes"
 	},
 
 	"Period 6":{
 		"startTime": "13:34",
+		"info": "with Tim Flood at Room C0.2",
 		"periodLength": "46 minutes"
 	},
 
 	"Period 7":{
 		"startTime": "14:20",
+		"info": "with Tim Flood at Room C0.2",
 		"periodLength": "45 minutes"
 	},
 
 	"End of Day":{
 		"startTime": "15:05"
+		"info": "with Tim Flood at Room C0.2"
 	}
 
 },
@@ -507,56 +517,67 @@
 "thursdayB":{
 	"Period 1":{
 		"startTime": "08:50",
+		"info": "with Tim Flood at Room C0.2",
 		"periodLength": "45 minutes"
 	},
 
 	"Period 2":{
 		"startTime": "09:35",
+		"info": "with Tim Flood at Room C0.2",
 		"periodLength": "45 minutes"
 	},
 
 	"Period 3":{
 		"startTime": "10:20",
+		"info": "with Tim Flood at Room C0.2",
 		"periodLength": "45 minutes"
 	},
 
 	"Sports Assembly":{
 		"startTime": "11:05",
+		"info": "with Tim Flood at Room C0.2",
 		"periodLength": "15 minutes"
 	},
 
 	"Recess":{
 		"startTime": "11:20",
+		"info": "with Tim Flood at Room C0.2",
 		"periodLength": "15 minutes"
 	},
 
 	"Period 4":{
 		"startTime": "11:35",
+		"info": "with Tim Flood at Room C0.2",
 		"periodLength": "45 minutes"
 	},
 
 	"Period 5":{
 		"startTime": "12:20",
+		"info": "with Tim Flood at Room C0.2",
 		"periodLength": "45 minutes"
 	},
 
 	"Lunch":{
 		"startTime": "13:05",
+		"info": "with Tim Flood at Room C0.2",
 		"periodLength": "30 minutes"
 	},
 
 	"Period 6":{
 		"startTime": "13:35",
+		"info": "with Tim Flood at Room C0.2",
 		"periodLength": "45 minutes"
 	},
 
 	"Period 7":{
 		"startTime": "14:20",
+		"info": "with Tim Flood at Room C0.2",
 		"periodLength": "45 minutes"
 	},
 
 	"End of Day":{
 		"startTime": "15:05"
+		"info": "with Tim Flood at Room C0.2"
 	}
 
 },
@@ -564,51 +585,61 @@
 "fridayB":{ 
 	"Period 1":{
 		"startTime": "08:50",
+		"info": "with Tim Flood at Room C0.2",
 		"periodLength": "45 minutes"
 	},
 
 	"Period 2":{
 		"startTime": "09:35",
+		"info": "with Tim Flood at Room C0.2",
 		"periodLength": "45 minutes"
 	},
 
 	"Period 3":{
 		"startTime": "10:20",
+		"info": "with Tim Flood at Room C0.2",
 		"periodLength": "45 minutes"
 	},
 
 	"Recess":{
 		"startTime": "11:05",
+		"info": "with Tim Flood at Room C0.2",
 		"periodLength": "35 minutes"
 	},	
 
 	"Period 4":{
 		"startTime": "11:35",
+		"info": "with Tim Flood at Room C0.2",
 		"periodLength": "45 minutes"
 	},
 
 	"Period 5":{
 		"startTime": "12:20",
+		"info": "with Tim Flood at Room C0.2",
 		"periodLength": "45 minutes"
 	},
 
 	"Lunch":{
 		"startTime": "13:05",
+		"info": "with Tim Flood at Room C0.2",
 		"periodLength": "30 minutes"
 	},
 
 	"Period 6":{
 		"startTime": "13:35",
+		"info": "with Tim Flood at Room C0.2",
 		"periodLength": "45 minutes"
 	},
 
 	"Period 7":{
 		"startTime": "14:20",
+		"info": "with Tim Flood at Room C0.2",
 		"periodLength": "45 minutes"
 	},
 
 	"End of Day":{
 		"startTime": "15:05"
+		"info": "with Tim Flood at Room C0.2"
 	}
 
 
