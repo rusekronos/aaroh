@@ -2,33 +2,39 @@
 "timetableData": {
 
 "mondayA":{
-	"Period 1":{
+	"Commerce":{
 		"startTime": "08:50",
+		"info": "with Tim Flood at Room C0.2",
 		"periodLength": "42 minutes"
 	},
 
-	"Period 2":{
+	"Japanese (1)":{
 		"startTime": "09:32",
+		"info": "with Alicia North at T2.1",
 		"periodLength": "41 minutes"
 	},
 
-	"Period 3":{
+	"Japanese (2)":{
 		"startTime": "10:13",
+		"info": "with Alicia North at T2.1",
 		"periodLength": "41 minutes"
 	},
 
 	"Recess":{
 		"startTime": "10:54",
+		"info": "10:54",
 		"periodLength": "15 minutes"
 	},
 
-	"Period 4":{
+	"Mathematics":{
 		"startTime": "11:09",
+		"info": "with Simon Guest at C2.7",
 		"periodLength": "42 minutes"
 	},
 
-	"Period 5":{
+	"History":{
 		"startTime": "11:51",
+		"info": "with Gregor MacFie at C1.5",
 		"periodLength": "41 minutes"
 	},
 
@@ -37,13 +43,15 @@
 		"periodLength": "30 minutes"
 	},
 
-	"Period 6":{
+	"Agriculture (1)":{
 		"startTime": "13:02",
+		"info": "with Robbie Ashhurst at T2.4",
 		"periodLength": "42 minutes"
 	},
 
-	"Period 7":{
+	"Agriculture (2)":{
 		"startTime": "13:44",
+		"info": "with Robbie Ashhurst at T2.4",
 		"periodLength": "41 minutes"
 	},
 
@@ -54,6 +62,7 @@
 
 	"End of Day":{
 		"startTime": "15:05"
+		"info": "with at"
 	}
 
 },
@@ -61,51 +70,61 @@
 "tuesdayA":{
 	"Period 1":{
 		"startTime": "08:50",
+		"info": "with at",
 		"periodLength": "48 minutes"
 	},
 
 	"Period 2":{
 		"startTime": "09:38",
+		"info": "with at",
 		"periodLength": "46 minutes"
 	},
 
 	"Period 3":{
 		"startTime": "10:24",
+		"info": "with at",
 		"periodLength": "45 minutes"
 	},
 
 	"Recess":{
 		"startTime": "11:09",
+		"info": "with at",
 		"periodLength": "20 minutes"
 	},
 
 	"Period 4":{
 		"startTime": "11:29",
+		"info": "with at",
 		"periodLength": "44 minutes"
 	},
 
 	"Period 5":{
 		"startTime": "12:15",
+		"info": "with at",
 		"periodLength": "45 minutes"
 	},
 
 	"Lunch":{
 		"startTime": "13:00",
+		"info": "with at",
 		"periodLength": "35 minutes"
 	},
 
 	"Period 6":{
 		"startTime": "13:35",
+		"info": "with at",
 		"periodLength": "45 minutes"
 	},
 
 	"Period 7":{
 		"startTime": "14:20",
+		"info": "with at",
 		"periodLength": "45 minutes"
 	},
 
 	"End of Day":{
 		"startTime": "15:05"
+		"info": "with at"
 	}
 
 },
@@ -113,51 +132,61 @@
 "wednesdayA":{
 	"Period 1":{
 		"startTime": "08:50",
+		"info": "with at",
 		"periodLength": "45 minutes"
 	},
 
 	"Period 2":{
 		"startTime": "09:35",
+		"info": "with at",
 		"periodLength": "45 minutes"
 	},
 
 	"Recess":{
 		"startTime": "10:20",
+		"info": "with at",
 		"periodLength": "18 minutes"
 	},
 
 	"Period 3":{
 		"startTime": "10:38",
+		"info": "with at",
 		"periodLength": "45 minutes"
 	},
 
 	"Period 4":{
 		"startTime": "11:23",
+		"info": "with at",
 		"periodLength": "45 minutes"
 	},
 
 	"Lunch":{
 		"startTime": "12:08",
+		"info": "with at",
 		"periodLength": "40 minutes"
 	},
 
 	"Period 5":{
 		"startTime": "12:48",
+		"info": "with at",
 		"periodLength": "46 minutes"
 	},
 
 	"Period 6":{
 		"startTime": "13:34",
+		"info": "with at",
 		"periodLength": "46 minutes"
 	},
 
 	"Period 7":{
 		"startTime": "14:20",
+		"info": "with at",
 		"periodLength": "45 minutes"
 	},
 
 	"End of Day":{
 		"startTime": "15:05"
+		"info": "with at"
 	}
 
 },
@@ -165,56 +194,67 @@
 "thursdayA":{
 	"Period 1":{
 		"startTime": "08:50",
+		"info": "with at",
 		"periodLength": "45 minutes"
 	},
 
 	"Period 2":{
 		"startTime": "09:35",
+		"info": "with at",
 		"periodLength": "45 minutes"
 	},
 
 	"Period 3":{
 		"startTime": "10:20",
+		"info": "with at",
 		"periodLength": "45 minutes"
 	},
 
 	"Sports Assembly":{
 		"startTime": "11:05",
+		"info": "with at",
 		"periodLength": "15 minutes"
 	},
 
 	"Recess":{
 		"startTime": "11:20",
+		"info": "with at",
 		"periodLength": "15 minutes"
 	},
 
 	"Period 4":{
 		"startTime": "11:35",
+		"info": "with at",
 		"periodLength": "45 minutes"
 	},
 
 	"Period 5":{
 		"startTime": "12:20",
+		"info": "with at",
 		"periodLength": "45 minutes"
 	},
 
 	"Lunch":{
 		"startTime": "13:05",
+		"info": "with at",
 		"periodLength": "30 minutes"
 	},
 
 	"Period 6":{
 		"startTime": "13:35",
+		"info": "with at",
 		"periodLength": "45 minutes"
 	},
 
 	"Period 7":{
 		"startTime": "14:20",
+		"info": "with at",
 		"periodLength": "45 minutes"
 	},
 
 	"End of Day":{
 		"startTime": "15:05"
+		"info": "with at"
 	}
 
 },
@@ -222,51 +262,61 @@
 "fridayA":{ 
 	"Period 1":{
 		"startTime": "08:50",
+		"info": "with at",
 		"periodLength": "45 minutes"
 	},
 
 	"Period 2":{
 		"startTime": "09:35",
+		"info": "with at",
 		"periodLength": "45 minutes"
 	},
 
 	"Period 3":{
 		"startTime": "10:20",
+		"info": "with at",
 		"periodLength": "45 minutes"
 	},
 
 	"Recess":{
 		"startTime": "11:05",
+		"info": "with at",
 		"periodLength": "35 minutes"
 	},	
 
 	"Period 4":{
 		"startTime": "11:35",
+		"info": "with at",
 		"periodLength": "45 minutes"
 	},
 
 	"Period 5":{
 		"startTime": "12:20",
+		"info": "with at",
 		"periodLength": "45 minutes"
 	},
 
 	"Lunch":{
 		"startTime": "13:05",
+		"info": "with at",
 		"periodLength": "30 minutes"
 	},
 
 	"Period 6":{
 		"startTime": "13:35",
+		"info": "with at",
 		"periodLength": "45 minutes"
 	},
 
 	"Period 7":{
 		"startTime": "14:20",
+		"info": "with at",
 		"periodLength": "45 minutes"
 	},
 
 	"End of Day":{
 		"startTime": "15:05"
+		"info": "with at"
 	}
 
 
@@ -275,108 +325,129 @@
 "mondayB":{
 	"Period 1":{
 		"startTime": "08:50",
+		"info": "with at",
 		"periodLength": "42 minutes"
 	},
 
 	"Period 2":{
 		"startTime": "09:32",
+		"info": "with at",
 		"periodLength": "41 minutes"
 	},
 
 	"Period 3":{
 		"startTime": "10:13",
+		"info": "with at",
 		"periodLength": "41 minutes"
 	},
 
 	"Recess":{
 		"startTime": "10:54",
+		"info": "with at",
 		"periodLength": "15 minutes"
 	},
 
 	"Period 4":{
 		"startTime": "11:09",
+		"info": "with at",
 		"periodLength": "42 minutes"
 	},
 
 	"Period 5":{
 		"startTime": "11:51",
+		"info": "with at",
 		"periodLength": "41 minutes"
 	},
 
 	"Lunch":{
 		"startTime": "12:32",
+		"info": "with at",
 		"periodLength": "30 minutes"
 	},
 
 	"Period 6":{
 		"startTime": "13:02",
+		"info": "with at",
 		"periodLength": "42 minutes"
 	},
 
 	"Period 7":{
 		"startTime": "13:44",
+		"info": "with at",
 		"periodLength": "41 minutes"
 	},
 
      "Period 8":{
 		"startTime": "14:25",
+	     "info": "with at",
 		"periodLength": "40 minutes"
 	},
 
 	"End of Day":{
 		"startTime": "15:05"
+		"info": "with at"
 	}
 
 },
 
 "tuesdayB":{
-	"Period 1":{
+	"PDHPE":{
 		"startTime": "08:50",
+		"info": "with Peter Low at Room T1.4",
 		"periodLength": "48 minutes"
 	},
 
-	"Period 2":{
+	"Commerce (1)":{
 		"startTime": "09:38",
+		"info": "with Tim Flood at Room A2.2",
 		"periodLength": "46 minutes"
 	},
 
-	"Period 3":{
+	"Commerce (2)":{
 		"startTime": "10:24",
+		"info": "with Tim Flood at Room A2.2",
 		"periodLength": "45 minutes"
 	},
 
 	"Recess":{
 		"startTime": "11:09",
+		"info": "11:09",
 		"periodLength": "20 minutes"
 	},
 
-	"Period 4":{
+	"Mathematics (1)":{
 		"startTime": "11:29",
+		"info": "with Simon Guest at Room C2.7",
 		"periodLength": "44 minutes"
 	},
 
-	"Period 5":{
+	"Mathematics (2)":{
 		"startTime": "12:15",
+		"info": "with Simon Guest at Room C2.7",
 		"periodLength": "45 minutes"
 	},
 
 	"Lunch":{
 		"startTime": "13:00",
+		"info": "13:00",
 		"periodLength": "35 minutes"
 	},
 
-	"Period 6":{
+	"English (1)":{
 		"startTime": "13:35",
+		"info": "with Kristy Webb at Room W1.3",
 		"periodLength": "45 minutes"
 	},
 
-	"Period 7":{
+	"English (2)":{
 		"startTime": "14:20",
+		"info": "with Kristy Webb at Room W1.3",
 		"periodLength": "45 minutes"
 	},
 
 	"End of Day":{
 		"startTime": "15:05"
+		"info": "11:05"
 	}
 
 },
